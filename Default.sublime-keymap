@@ -1,0 +1,3 @@
+[
+  { "keys": ["super+shift+i"], "command": "format_js" }
+]

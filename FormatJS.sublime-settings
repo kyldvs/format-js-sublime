@@ -1,0 +1,6 @@
+{
+  // This should point the the script for formatjs after installing the npm
+  // package "format-js-cli". If installed globally, find this path by running
+  // `which formatjs`
+  "formatjs_path": "~/node_modules/format-js-cli/bin/formatjs"
+}
